@@ -1,2 +1,2 @@
-# dado python
- Simulador de dados
+# Dado Python
+ Programa que joga dados de acordo com o usuário
